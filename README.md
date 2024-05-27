@@ -6,5 +6,4 @@ Meu nome é **Alex Vinicius Gasparin**
 Contato:
 - alexgasparin@prof.educacao.sp.gov.br
 
-
-![](https://tenor.com/pt-BR/search/leo-fitz-gifs) 
+![](https://media1.tenor.com/m/VObrmodY2ucAAAAd/eth-blockchain.gif)
