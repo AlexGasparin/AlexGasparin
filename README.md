@@ -1,9 +1,6 @@
-Meu nome é **Alex Vinicius Gasparin**
-- Sou professor de **Tecnologia e Robótica**
-- Estou estudando em _Alura_
-- Estou me desenvolvendo na linguagem _JavaScript_
+Hoje é **segunda-feira**
 
-Contato:
-- alexgasparin@prof.educacao.sp.gov.br
-
-![](https://media1.tenor.com/m/VObrmodY2ucAAAAd/eth-blockchain.gif)
+Dia de _Prova Paulista_
+- Boa prova 📝
+  
+![](https://tenor.com/pt-BR/view/school-test-exams-im-stupid-idiot-gif-4469314) 
